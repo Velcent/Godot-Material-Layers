@@ -1,3 +1,12 @@
+> [!NOTE]
+> **This is the Legacy version of Material Layers** - a feature-frozen, free archive predating the 1.0 release, with the original array-based collapsible groups. Material Layers 1.0 is the current release featuring an updated interface with a modern node graph system and production-ready workflows.
+
+[Get Material Layers 1.0](https://materiallayers.foyez.es)
+
+See [Legacy vs Pro](https://foyez.es/docs/material-layers/getting-started/legacy-vs-pro) to decide which to pick.
+
+Docs for 1.0: [foyez.es/docs/material-layers](https://foyez.es/docs/material-layers)
+
 [<img target="_newtab" src="assets/materialLayerHeader3.webp">](https://store.godotengine.org)
 
 ## Download
